@@ -1,5 +1,5 @@
-# Hello there
-F:\Downloads\joel-filipe-ZMRMFULofus-unsplash.jpg
+# Hello there!
+[joel-filipe-ZMRMFULofus-unsplash](https://user-images.githubusercontent.com/59201584/112476384-08fac980-8d9c-11eb-931b-0c90c8cba8ba.jpg)
 
 I'm a BBA graduate from IBA, Dhaka University, currently pursuing a Masters in Applied Stats from EWU and working as an Analytics
 Engineer in Intelligent Machines Limited, a leading deep tech firm in Bangladesh. 
