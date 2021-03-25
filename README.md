@@ -13,4 +13,7 @@ https://www.linkedin.com/in/shuvo-saha-shushmoy/
 https://github.com/Shuvo-saha
 
 **Design Portfolio**   
-drive.google.com/drive/folders/1JGjQD337RtGSr0vAtbuU9WlGFrq3ugzm?usp=sharing  
+drive.google.com/drive/folders/1JGjQD337RtGSr0vAtbuU9WlGFrq3ugzm?usp=sharing 
+
+**Medium**  
+https://medium.com/@shuvo_11323
