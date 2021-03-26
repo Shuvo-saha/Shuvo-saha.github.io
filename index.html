@@ -83,15 +83,10 @@
 			</p>
 			<blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">Example of blockquote - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.</blockquote>
 			
-			<div id="retainable-rss-embed" 
-			data-rss="https://medium.com/feed/retainable,
-			https://medium.com/feed/vue-mastery"
-			data-maxcols="3" 
-			data-layout="grid" 
-			data-poststyle="inline" 
-			data-readmore="Read the rest" 
-			data-buttonclass="btn btn-primary" 
-			data-offset="-100"></div>
+			<div id="medium-widget"></div>
+    <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
+    <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@shuvo_11323","postsPerLine":2,"limit":5,"picture":"big","fields":["description","author","publishAt"],"ratio":"original"}})</script>
+
 			
 			<p class="py-6">Example code block:</p>
 			<pre class="bg-gray-900 rounded text-white font-mono text-base p-2 md:p-4">
@@ -236,5 +231,4 @@
 
 </body>
 
-<script src="https://www.twilik.com/assets/retainable/rss-embed/retainable-rss-embed.js"></script>
 </html>
