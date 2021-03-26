@@ -14,7 +14,17 @@
     />
     <!--Replace with your tailwind.css once created-->
   </head>
-
+// tailwind.config.js
+  module.exports = {
+    theme: {
+      extend: {
+        backgroundImage: theme => ({
+         'hero-pattern': "url('/img/hero-pattern.svg')",
+         'footer-texture': "url('/img/footer-texture.png')",
+        })
+      }
+    }
+  }
   
 <body class="bg-gray-100 font-sans leading-normal tracking-normal">
 
@@ -26,7 +36,7 @@
 
 			<div class="pl-4">
 				<a class="text-gray-900 text-base no-underline hover:no-underline font-extrabold text-xl" href="#">
-					Minimal Blog
+					Pragmatic Data Science
 				</a>
 			</div>
 
